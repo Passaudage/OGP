@@ -4,7 +4,7 @@
  
 % classe de base
  
-\LoadClass[a4paper, 11pt]{report}
+\LoadClass[a4paper, 11pt]{article}
  
 % extensions
  
@@ -81,14 +81,14 @@
 
 \usetikzlibrary{fadings}
 
-%\sffamily
-%\RequirePackage{helvet}
-%\sffamily
-%\DeclareFontShape{T1}{lmss}{bx}{sc} { <-> ssub * phv/bx/sc }{}
-%\DeclareFontShape{T1}{lmss}{m}{sc} { <-> ssub * phv/m/sc }{}
-%\renewcommand{\rmdefault}{lmr}
-%\renewcommand{\sfdefault}{lmss}
-%\renewcommand{\ttdefault}{lmtt}
+\sffamily
+\RequirePackage{helvet}
+\sffamily
+\DeclareFontShape{T1}{lmss}{bx}{sc} { <-> ssub * phv/bx/sc }{}
+\DeclareFontShape{T1}{lmss}{m}{sc} { <-> ssub * phv/m/sc }{}
+\renewcommand{\rmdefault}{lmr}
+\renewcommand{\sfdefault}{lmss}
+\renewcommand{\ttdefault}{lmtt}
  
 \newcommand{\langue}{\emph} % mots en langues étrangères
 \newcommand{\cita}{\emph} % citation en italique
@@ -150,35 +150,35 @@
 
 %-------------------------------------------------------------------
 
-%\renewcommand{\thesection}{\Roman{section}.}
-%\renewcommand{\thesubsection}{\Alph{subsection}.}
-%\renewcommand{\thesubsubsection}{\arabic{subsubsection}}
-%\renewcommand{\theparagraph}{\alph{paragraph}}
+\renewcommand{\thesection}{\Roman{section}.}
+\renewcommand{\thesubsection}{\Alph{subsection}.}
+\renewcommand{\thesubsubsection}{\arabic{subsubsection}}
+\renewcommand{\theparagraph}{\alph{paragraph}}
 
 %-------------- Ligne grise--------------------------------------
-%\newcommand{\lignegrise}{\noindent{\color{gray}\hdashrule[0pt][x]{\linewidth}{2pt}{2pt}}}
+\newcommand{\lignegrise}{\noindent{\color{gray}\hdashrule[0pt][x]{\linewidth}{2pt}{2pt}}}
 
 %-------------- Liste des figures --------------------------------------
-%\renewcommand{\cftafterloftitle}{%
-%{\color{rougeSombreRemy}\large\sffamily\bfseries~\decofourright}\hfill\vspace{-0.4em}\strut{}\\%
-%\lignegrise{}}
-%\renewcommand{\cftloftitlefont}{\lignegrise
-%\par\noindent\hfill\large\color{rougeSombreRemy}\sffamily\bfseries\decofourleft~}
-%\renewcommand{\cftfigdotsep}{\cftnodots}
-%\newcommand{\listeFigures}[1][]{\clearpage#1\listoffigures%
-%\lignegrise\clearpage}
+\renewcommand{\cftafterloftitle}{%
+{\color{rougeSombreRemy}\large\sffamily\bfseries~\decofourright}\hfill\vspace{-0.4em}\strut{}\\%
+\lignegrise{}}
+\renewcommand{\cftloftitlefont}{\lignegrise
+\par\noindent\hfill\large\color{rougeSombreRemy}\sffamily\bfseries\decofourleft~}
+\renewcommand{\cftfigdotsep}{\cftnodots}
+\newcommand{\listeFigures}[1][]{\clearpage#1\listoffigures%
+\lignegrise\clearpage}
 
 
 %-------------- Table des matières--------------------------------------
-%\renewcommand{\cftaftertoctitle}{%
-%{\color{rougeSombreRemy}\large\sffamily\bfseries~\decofourright}\hfill\vspace{-0.4em}\strut{}\\%
-%\lignegrise{}}
-%\renewcommand{\cfttoctitlefont}{\lignegrise
-%\par\noindent\hfill\large\color{rougeSombreRemy}\sffamily\bfseries\decofourleft~}
-%
-%\addtolength{\cftsecnumwidth}{0.3em}
-%\setlength{\cftsubsubsecnumwidth}{1.6em}
-%\setlength{\cftparanumwidth}{1.6em}
+\renewcommand{\cftaftertoctitle}{%
+{\color{rougeSombreRemy}\large\sffamily\bfseries~\decofourright}\hfill\vspace{-0.4em}\strut{}\\%
+\lignegrise{}}
+\renewcommand{\cfttoctitlefont}{\lignegrise
+\par\noindent\hfill\large\color{rougeSombreRemy}\sffamily\bfseries\decofourleft~}
+
+\addtolength{\cftsecnumwidth}{0.3em}
+\setlength{\cftsubsubsecnumwidth}{1.6em}
+\setlength{\cftparanumwidth}{1.6em}
 
 \renewcommand{\cftsecfont}{\bfseries\sffamily\large\color{grisSombre}}
 \renewcommand{\cftsubsecfont}{\sffamily\color{grisSombre}}
@@ -190,7 +190,8 @@
 
 
 
-\newcommand{\tableMatieres}{\tableofcontents}
+\newcommand{\tableMatieres}{\tableofcontents
+\lignegrise\clearpage}
 
 %--------------- Page titre ----------------------------------------------------
 \newcommand{\pageTitre}{
@@ -411,8 +412,8 @@ color(3cm)=(transparent)}
 
 \pagestyle{plain}
 
-%\makeatletter
-%\renewcommand{\p@subsubsection}{\Roman{section}.\Alph{subsection}.\arabic{subsubsection}\expandafter\@gobble}
-%\makeatother
+\makeatletter
+\renewcommand{\p@subsubsection}{\Roman{section}.\Alph{subsection}.\arabic{subsubsection}\expandafter\@gobble}
+\makeatother
 
 
