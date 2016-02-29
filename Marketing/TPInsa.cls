@@ -140,6 +140,7 @@
 \titleformat{\subparagraph}[runin]
 {\sffamily\normalsize\bfseries}{\thesubparagraph}{1em}{}
 
+\titleformat{\chapter}{\normalfont\huge}{}{0pt}{\huge\bfseries}
 \titlespacing*{\chapter} {0pt}{50pt}{40pt}
 \titlespacing*{\section} {0pt}{3.5ex plus 1ex minus .2ex}{2.3ex plus .2ex}
 \titlespacing*{\subsection} {0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
@@ -253,7 +254,7 @@
     \BODY
    \end{tabularx}
 }
-\rowcolors{2}{grisTresClair}{}
+%\rowcolors{2}{grisTresClair}{}
 
 %---------------------------------------------------------------Images
 \newcommand{\strechedFigure}[3][H]{
