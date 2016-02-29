@@ -33,8 +33,8 @@
 
 \RequirePackage[table, svgnames]{xcolor}
 \RequirePackage{fancyhdr}
-\definecolor{rougeSombreRemy}{RGB}{156,0,0}
-\definecolor{rougePetantRemy}{RGB}{216,0,0}
+\definecolor{rougeSombreRemy}{RGB}{0,156,0}
+\definecolor{rougePetantRemy}{RGB}{0,216,0}
 \definecolor{grisSombre}{RGB}{34, 30, 30}
 \definecolor{grisClair}{RGB}{136, 130, 130}
 \RequirePackage[frenchb]{babel}
@@ -207,32 +207,12 @@
 	(0, .05\paperheight) .. controls +(-.8\paperwidth, .1\paperheight)
 	.. +(-.9\paperwidth, -.15\paperheight) -- (current page.south east);
 
-	%Logo
-	\draw[very thick, color=grisClair] (current page.south west)
-		++(0.35\paperwidth, 0.5cm) -- ++(70:1.2cm) -- ++ (70:1.2cm) --
-	++ (180:1.2cm) -- ++(250:0.6cm); 
-
-	\draw[very thick, color=grisClair] (current page.south west)
-		++(0.35\paperwidth, 0.5cm) ++(70:1.2cm) ++ (-0.6cm, 0) --
-	++ (1.2cm, 0); 
-
-	\draw[very thick, color=grisClair, fill=grisTresClair] (current page.south west)
-	++(0.35\paperwidth, 0.5cm) ++(70:1.2cm) circle (2.5mm) ++ (-0.6cm, 0) circle(1mm)
-	++ (1.2cm, 0) circle (1mm); 
-
-	\draw[very thick, color=grisClair, fill=grisTresClair] (current page.south west)
-	++(0.35\paperwidth, 0.5cm) circle(1mm) ++(70:2.4cm) circle(1mm) ++ (180:1.2cm) 
-	circle (1.4mm) ++ (250:0.6cm) circle(1mm);
-
-	\draw (current page.south west) ++ (0.40\paperwidth, 0.5cm)
-	node[above right] {\sffamily \huge Heptan'hommes};
-
 	\end{tikzpicture}
   \strut{}\vspace{2cm}\hfill\begin{minipage}[t]{0.75\linewidth}
 	\flushleft
 	\color{grisSombre}
 	{
-	\large	PLDSI}\vspace{8\lineskip}\par
+	\large	OGP}\vspace{8\lineskip}\par
 
 	{\parbox{\linewidth}{\bfseries\Huge \makeatletter\@title\makeatother}\vspace{12\lineskip}}
 
@@ -245,13 +225,12 @@
 	{
 		\LARGE
 		\strut{}\hfill\begin{minipage}[t]{\widthof{Jérémy Wimsingues}}
-		Julien Bara\\
-		Rémy de Leydet\\
-		Théo Faure\\
+		Ghayth Barhoumi\\
+		Nicolas Bonfante\\
+		Paul Compagnon\\
 		Luc Forget\\
-		Amjad Haouriqui\\
-		Quentin Labernia\\
-		Jérémy Wimsingues
+		Marc Javin\\
+		Quentin Labernia
 	\end{minipage}
 	}
 	\vfill
