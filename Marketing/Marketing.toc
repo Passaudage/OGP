@@ -1,0 +1,14 @@
+\select@language {french}
+\contentsline {chapter}{\numberline {1}Marketing}{2}{chapter.1}
+\contentsline {section}{\numberline {1.1}Description du produit}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}Nature d'utilisation}{2}{section.1.2}
+\contentsline {section}{\numberline {1.3}Degr\IeC {\'e} de qualit\IeC {\'e}}{3}{section.1.3}
+\contentsline {section}{\numberline {1.4}Nomenclature de planification}{3}{section.1.4}
+\contentsline {section}{\numberline {1.5}Nature des mat\IeC {\'e}riaux utilis\IeC {\'e}s}{3}{section.1.5}
+\contentsline {section}{\numberline {1.6}Nature de la distribution}{3}{section.1.6}
+\contentsline {section}{\numberline {1.7}D\IeC {\'e}lai de mise \IeC {\`a} disposition}{3}{section.1.7}
+\contentsline {section}{\numberline {1.8}Quantit\IeC {\'e} de distribution}{4}{section.1.8}
+\contentsline {section}{\numberline {1.9}Localisation de la distribution}{4}{section.1.9}
+\contentsline {section}{\numberline {1.10}Politique de gestion de la production}{4}{section.1.10}
+\contentsline {section}{\numberline {1.11}Localisation de la fabrication}{4}{section.1.11}
+\contentsline {section}{\numberline {1.12}Pr\IeC {\'e}visions de vente}{4}{section.1.12}
