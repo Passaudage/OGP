@@ -5,17 +5,18 @@
 %
 \mode<presentation>
 {
-  \usetheme{Madrid}       % or try default, Darmstadt, Warsaw, ...
+  \usetheme{Darmstadt}       % or try default, Darmstadt, Warsaw, ...
   \usecolortheme{default} % or try albatross, beaver, crane, ...
-  \usefonttheme{serif}    % or try default, structurebold, ...
+  \usefonttheme{default}    % or try default, structurebold, ...
   \setbeamertemplate{navigation symbols}{}
   \setbeamertemplate{caption}[numbered]
 } 
 
-\usepackage[english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[frenchb]{babel}
 \usepackage[utf8x]{inputenc}
-\usepackage{chemfig}
-\usepackage[version=3]{mhchem}
+\usepackage{array}
+\usepackage{booktabs}
 
 % On Overleaf, these lines give you sharper preview images.
 % You might want to `comment them out before you export, though.
@@ -31,30 +32,29 @@
 
 \begin{document}
 
+\begin{frame}
+\begin{center}
+\huge E-kitable
+\end{center}
+\maketitle
+\end{frame}
+
 % These three lines create an automatically generated table of contents.
 \begin{frame}{Plan}
   \tableofcontents
 \end{frame}
 
-\section{Introduction}
-\begin{frame}
-INTRODUCTION
-\end{frame}
-
 \section{Marketing}
-\begin{frame}
-MARKETING
-\end{frame}
+\input{bonfante.tex}
+\input{luc.tex}
 
 \section{Méthode}
-\begin{frame}
-METHODE
-\end{frame}
+\input{quentin.tex}
+\input{marc.tex}
 
 \section{Organisationnel}
-\begin{frame}
-ORGANISATIONNEL
-\end{frame}
+\input{ghayth.tex}
+\input{paul.tex}
 
 \section{Conlusion}
 \begin{frame}
@@ -69,6 +69,5 @@ Danke für Ihre Aufmerksamkeit ! \\
 \end{center}
 \end{frame}
 
-\end{frame}
 
 \end{document}

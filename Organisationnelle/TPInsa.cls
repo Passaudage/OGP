@@ -257,7 +257,7 @@
 \rowcolors{2}{grisTresClair}{}
 
 %---------------------------------------------------------------Images
-\newcommand{\strechedFigure}[3][H]{
+\newcommand{\strechedFigure}[3][!ht]{
 \begin{figure}[#1]
 	\centering
 	\includegraphics[width=\linewidth]{#2}
@@ -265,7 +265,7 @@
 	\end{figure}
 }
 
-\newcommand{\strechedHeightFigure}[3][H]{
+\newcommand{\strechedHeightFigure}[3][!ht]{
 \begin{figure}[#1]
 	\centering
 	\includegraphics[height=.95\textheight]{#2}
@@ -273,7 +273,7 @@
 	\end{figure}
 }
 
-\newcommand{\unscaledFigure}[3][H]{
+\newcommand{\unscaledFigure}[3][!ht]{
 \begin{figure}[#1]
 	\centering
 	\includegraphics{#2}
@@ -281,7 +281,7 @@
 	\end{figure}
 }
 
-\newcommand{\fixedWidthFigure}[4][H]{
+\newcommand{\fixedWidthFigure}[4][!ht]{
 \begin{figure}[#1]
 	\centering
 	\includegraphics[width=#4]{#2}
