@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.17)  1 MAR 2016 22:54
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.17)  2 MAR 2016 08:05
 entering extended mode
 **Presentation.tex
 
@@ -1087,12 +1087,8 @@ LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <4> not available
 (Font)              size <5> substituted on input line 41.
 
 
-("C:\Users\LABERNIA Quentin\Documents\INSA Lyon\4IF\OGP\Presentation\Presentati
-on.toc") [2
-
-{C:/Users/LABERNIA Quentin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 ("C:\Users\LABERNIA Quentin\Documents\INSA Lyon\4IF\OGP\Presentation\bonfante.t
-ex" <./captures/table.png, id=51, 542.025pt x 344.78813pt>
+ex" <./captures/table.png, id=40, 542.025pt x 344.78813pt>
 File: ./captures/table.png Graphic file (type png)
 
 <use ./captures/table.png>
@@ -1105,21 +1101,24 @@ LaTeX Font Warning: Font shape `T1/cmss/m/sc' undefined
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\uni-0.def"
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
-) [3
+) [2{C:/Users/LABERNIA Quentin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.ma
+p}
 
-] [4
+] [3
 
  <C:/Users/LABERNIA Quentin/Documents/INSA Lyon/4IF/OGP/Presentation/captures/t
-able.png>]
+able.png>] [4
+
+]
 [5
 
 ] [6
 
-] [7
-
 ])
 ("C:\Users\LABERNIA Quentin\Documents\INSA Lyon\4IF\OGP\Presentation\luc.tex"
-[8
+[7
+
+] [8
 
 ] [9
 
@@ -1128,8 +1127,6 @@ able.png>]
 ] [11
 
 ] [12
-
-] [13
 
 ]
 LaTeX Font Info:    Try loading font information for U+msa on input line 41.
@@ -1149,11 +1146,13 @@ line 41.
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-[14
+[13
 
 ])
 ("C:\Users\LABERNIA Quentin\Documents\INSA Lyon\4IF\OGP\Presentation\marc.tex"
-[15
+[14
+
+] [15
 
 ] [16
 
@@ -1161,23 +1160,18 @@ thkerncmss.
 
 ] [18
 
-] [19
-
 ]
-<../Methodes/captures/Bloc_base.png, id=148, 635.37375pt x 489.83pt>
+<../Methodes/captures/Bloc_base.png, id=213, 635.37375pt x 489.83pt>
 File: ../Methodes/captures/Bloc_base.png Graphic file (type png)
 
 <use ../Methodes/captures/Bloc_base.png>
 Package pdftex.def Info: ../Methodes/captures/Bloc_base.png used on input line 
 19.
-(pdftex.def)             Requested size: 254.14499pt x 195.92853pt.
+(pdftex.def)             Requested size: 222.38414pt x 171.44305pt.
+ [19
 
-Overfull \vbox (20.06442pt too high) detected at line 19
- []
-
-[20
-
-] <../Methodes/captures/Pieds.png, id=155, 434.62375pt x 444.66125pt>
+]
+<../Methodes/captures/Pieds.png, id=223, 434.62375pt x 444.66125pt>
 File: ../Methodes/captures/Pieds.png Graphic file (type png)
 
 <use ../Methodes/captures/Pieds.png>
@@ -1187,11 +1181,11 @@ Package pdftex.def Info: ../Methodes/captures/Pieds.png used on input line 27.
 Overfull \vbox (1.99724pt too high) detected at line 27
  []
 
-[21
+[20
 
  <C:/Users/LABERNIA Quentin/Documents/INSA Lyon/4IF/OGP/Methodes/captures/Bloc_
 base.png>]
-<../Methodes/captures/procede_fab_table_particulier.PNG, id=162, 311.66437pt x 
+<../Methodes/captures/procede_fab_table_particulier.PNG, id=235, 311.66437pt x 
 90.3375pt>
 File: ../Methodes/captures/procede_fab_table_particulier.PNG Graphic file (type
  png)
@@ -1200,15 +1194,17 @@ Package pdftex.def Info: ../Methodes/captures/procede_fab_table_particulier.PNG
  used on input line 35.
 (pdftex.def)             Requested size: 124.66353pt x 36.13435pt.
 
-[22
+[21
 
  <C:/Users/LABERNIA Quentin/Documents/INSA Lyon/4IF/OGP/Methodes/captures/Pieds
 .png>])
 ("C:\Users\LABERNIA Quentin\Documents\INSA Lyon\4IF\OGP\Presentation\quentin.te
-x" [23
+x" [22
 
  <C:/Users/LABERNIA Quentin/Documents/INSA Lyon/4IF/OGP/Methodes/captures/proce
-de_fab_table_particulier.PNG>] [24
+de_fab_table_particulier.PNG>] [23
+
+] [24
 
 ] [25
 
@@ -1220,11 +1216,20 @@ de_fab_table_particulier.PNG>] [24
 
 ] [29
 
+]
+[30
+
 ])
 ("C:\Users\LABERNIA Quentin\Documents\INSA Lyon\4IF\OGP\Presentation\ghayth.tex
-") ("C:\Users\LABERNIA Quentin\Documents\INSA Lyon\4IF\OGP\Presentation\paul.te
-x"
-<../Organisationnelle/captures/charge_assemblage.PNG, id=206, 612.03656pt x 379
+" [31
+
+] ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\uni-32.def"
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+) [32
+
+])
+("C:\Users\LABERNIA Quentin\Documents\INSA Lyon\4IF\OGP\Presentation\paul.tex"
+<../Organisationnelle/captures/charge_assemblage.PNG, id=348, 612.03656pt x 379
 .4175pt>
 File: ../Organisationnelle/captures/charge_assemblage.PNG Graphic file (type pn
 g)
@@ -1232,71 +1237,71 @@ g)
 Package pdftex.def Info: ../Organisationnelle/captures/charge_assemblage.PNG us
 ed on input line 9.
 (pdftex.def)             Requested size: 244.81029pt x 151.7643pt.
- [30
+ [33
 
 ]
-<../Organisationnelle/captures/charge_fab.PNG, id=212, 599.99156pt x 393.72093p
+<../Organisationnelle/captures/charge_fab.PNG, id=358, 599.99156pt x 393.72093p
 t>
 File: ../Organisationnelle/captures/charge_fab.PNG Graphic file (type png)
  <use ../Organisationnelle/captures/charge_fab.PNG>
 Package pdftex.def Info: ../Organisationnelle/captures/charge_fab.PNG used on i
 nput line 17.
 (pdftex.def)             Requested size: 239.99237pt x 157.48558pt.
- [31
+ [34
 
  <C:/Users/LABERNIA Quentin/Documents/INSA Lyon/4IF/OGP/Organisationnelle/captu
 res/charge_assemblage.PNG>]
-<../Organisationnelle/captures/charge_pein.PNG, id=219, 596.2275pt x 386.19281p
+<../Organisationnelle/captures/charge_pein.PNG, id=369, 596.2275pt x 386.19281p
 t>
 File: ../Organisationnelle/captures/charge_pein.PNG Graphic file (type png)
  <use ../Organisationnelle/captures/charge_pein.PNG>
 Package pdftex.def Info: ../Organisationnelle/captures/charge_pein.PNG used on 
 input line 26.
 (pdftex.def)             Requested size: 238.48677pt x 154.47438pt.
- [32
+ [35
 
  <C:/Users/LABERNIA Quentin/Documents/INSA Lyon/4IF/OGP/Organisationnelle/captu
 res/charge_fab.PNG>]
-<../Organisationnelle/captures/charge_sei.PNG, id=227, 589.4522pt x 379.4175pt>
+<../Organisationnelle/captures/charge_sei.PNG, id=380, 589.4522pt x 379.4175pt>
 File: ../Organisationnelle/captures/charge_sei.PNG Graphic file (type png)
 <use ../Organisationnelle/captures/charge_sei.PNG>
 Package pdftex.def Info: ../Organisationnelle/captures/charge_sei.PNG used on i
 nput line 35.
 (pdftex.def)             Requested size: 235.7767pt x 151.7643pt.
- [33
+ [36
 
  <C:/Users/LABERNIA Quentin/Documents/INSA Lyon/4IF/OGP/Organisationnelle/captu
 res/charge_pein.PNG>]
-<../Organisationnelle/captures/charge_emb.PNG, id=234, 584.93532pt x 382.42876p
+<../Organisationnelle/captures/charge_emb.PNG, id=391, 584.93532pt x 382.42876p
 t>
 File: ../Organisationnelle/captures/charge_emb.PNG Graphic file (type png)
  <use ../Organisationnelle/captures/charge_emb.PNG>
 Package pdftex.def Info: ../Organisationnelle/captures/charge_emb.PNG used on i
 nput line 43.
 (pdftex.def)             Requested size: 233.96997pt x 152.96878pt.
- [34
+ [37
 
  <C:/Users/LABERNIA Quentin/Documents/INSA Lyon/4IF/OGP/Organisationnelle/captu
 res/charge_sei.PNG>]
-<../Organisationnelle/captures/charge_pal.png, id=241, 590.95781pt x 382.42876p
+<../Organisationnelle/captures/charge_pal.png, id=402, 590.95781pt x 382.42876p
 t>
 File: ../Organisationnelle/captures/charge_pal.png Graphic file (type png)
  <use ../Organisationnelle/captures/charge_pal.png>
 Package pdftex.def Info: ../Organisationnelle/captures/charge_pal.png used on i
 nput line 51.
 (pdftex.def)             Requested size: 236.37894pt x 152.96878pt.
- [35
+ [38
 
  <C:/Users/LABERNIA Quentin/Documents/INSA Lyon/4IF/OGP/Organisationnelle/captu
 res/charge_emb.PNG>])
-[36
+[39
 
  <C:/Users/LABERNIA Quentin/Documents/INSA Lyon/4IF/OGP/Organisationnelle/captu
 res/charge_pal.png>]
 \tf@nav=\write6
 \tf@toc=\write7
 \tf@snm=\write8
- [37
+ [40
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 74.
@@ -1313,8 +1318,8 @@ Package rerunfilecheck Warning: File `Presentation.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `Presentation.out':
-(rerunfilecheck)             Before: DD222A6B228BC13746A1C0CDAC836F44;183
-(rerunfilecheck)             After:  D803E05FCAB14950A996A6FC835703C1;187.
+(rerunfilecheck)             Before: 687792C1156AE59AA552DAB5DF65CC75;91
+(rerunfilecheck)             After:  A1693FE5F863E7E71C9AE377C74DF57C;188.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
@@ -1325,15 +1330,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 74.
  ) 
 Here is how much of TeX's memory you used:
- 19712 strings out of 493705
- 369535 string characters out of 3144536
- 467666 words of memory out of 3000000
- 22436 multiletter control sequences out of 15000+200000
- 17482 words of font info for 46 fonts, out of 3000000 for 9000
+ 20030 strings out of 493705
+ 372744 string characters out of 3144536
+ 467664 words of memory out of 3000000
+ 22749 multiletter control sequences out of 15000+200000
+ 16709 words of font info for 45 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  56i,16n,61p,393b,812s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t1.enc}<C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfss0700.pfb><C:/Program File
+gram Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfss0600.pfb><C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/cm-super/sfss0800.pfb><C:/Program Files/MiKTeX 
 2.9/fonts/type1/public/cm-super/sfss0900.pfb><C:/Program Files/MiKTeX 2.9/fonts
 /type1/public/cm-super/sfss1000.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
@@ -1341,9 +1346,9 @@ blic/cm-super/sfss1095.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-s
 uper/sfss1440.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfss
 2074.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfsx1095.pfb>
 
-Output written on Presentation.pdf (36 pages, 387746 bytes).
+Output written on Presentation.pdf (39 pages, 434460 bytes).
 PDF statistics:
- 305 PDF objects out of 1000 (max. 8388607)
- 77 named destinations out of 1000 (max. 500000)
- 173 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 478 PDF objects out of 1000 (max. 8388607)
+ 83 named destinations out of 1000 (max. 500000)
+ 157 words of extra memory for PDF output out of 10000 (max. 10000000)
 

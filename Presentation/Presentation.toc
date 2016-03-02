@@ -1,6 +1,6 @@
 \beamer@endinputifotherversion {3.33pt}
 \select@language {french}
-\beamer@sectionintoc {1}{Marketing}{3}{0}{1}
-\beamer@sectionintoc {2}{M\IeC {\'e}thode}{15}{0}{2}
-\beamer@sectionintoc {3}{Organisationnel}{30}{0}{3}
-\beamer@sectionintoc {4}{Conlusion}{36}{0}{4}
+\beamer@sectionintoc {1}{Marketing}{2}{0}{1}
+\beamer@sectionintoc {2}{M\IeC {\'e}thode}{14}{0}{2}
+\beamer@sectionintoc {3}{Organisationnel}{31}{0}{3}
+\beamer@sectionintoc {4}{Conclusion}{39}{0}{4}
