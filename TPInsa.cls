@@ -216,8 +216,8 @@
 
 	{\parbox{\linewidth}{\bfseries\Huge \makeatletter\@title\makeatother}\vspace{12\lineskip}}
 
-  \strut{}\hfill{\color{rougeSombreRemy}\Large Heptanome
-	4404}\vspace{24\lineskip}
+  \strut{}\hfill{\color{rougeSombreRemy}\Large Hexanome
+	4313}\vspace{24\lineskip}
 
 	\strut{}\hfill{\LARGE\color{grisClair}\bfseries Généré le \makeatletter\@date\makeatother}
   \end{minipage}
@@ -393,7 +393,7 @@ color(3cm)=(transparent)}
 }
 %----------------------------------------------En têtes etc
 \fancypagestyle{plain}{%
-\lhead{\small\color{grisSombre}H4404}
+\lhead{\small\color{grisSombre}H4313}
 \chead{}
 \rhead{\small\color{grisSombre}\makeatletter\@title\makeatother}
 \cfoot{Page \thepage}
