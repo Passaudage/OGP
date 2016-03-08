@@ -1,0 +1,12 @@
+\select@language {french}
+\contentsline {section}{\numberline {I.}Situation actuelle}{2}{section.1}
+\contentsline {subsection}{\numberline {A.}Description de l'entreprise}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {B.}Description du personnel}{3}{subsection.1.2}
+\contentsline {subsection}{\numberline {C.}Description du patrimoine mat\IeC {\'e}riel}{3}{subsection.1.3}
+\contentsline {section}{\numberline {II.}Situation future}{3}{section.2}
+\contentsline {subsection}{\numberline {A.}Les nouvelles familles de produit}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {B.}PLan commercial et plan industriel}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {C.}Charges des postes assemblage et fabrication}{5}{subsection.2.3}
+\contentsline {subsection}{\numberline {D.}Charges des nouveaux postes}{6}{subsection.2.4}
+\contentsline {subsection}{\numberline {E.}Bilan des moyens humains et de production \IeC {\`a} mettre en \IeC {\oe }uvre}{9}{subsection.2.5}
+\contentsline {section}{\numberline {III.}Conclusion}{9}{section.3}
